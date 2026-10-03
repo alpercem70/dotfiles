@@ -1,0 +1,9 @@
+HideScrollbar	bool	true
+ShowFullScreenTabBar	bool	false
+UseLionStyleFullscreen	bool	false
+SoundForEsc	bool	false
+HapticFeedbackForEsc	bool	false
+VisualIndicatorForEsc	bool	false
+ApplePressAndHoldEnabled	bool	false
+AppleScrollAnimationEnabled	int	0
+Print In Black And White	bool	true
